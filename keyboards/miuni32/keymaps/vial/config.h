@@ -5,3 +5,6 @@
 /* Vial unlock keycombo: ESC + Return */
 #define VIAL_UNLOCK_COMBO_ROWS { 0, 1 }
 #define VIAL_UNLOCK_COMBO_COLS { 0, 0 }
+
+#define WS2812_DI_PIN D0
+#define RGBLIGHT_LED_COUNT 17
